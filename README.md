@@ -1,1 +1,1 @@
-# html-css-and-bootstrap-2-column-card
+# html-css-and-bootstrap-3-column-card
